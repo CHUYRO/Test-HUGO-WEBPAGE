@@ -8,4 +8,5 @@ Este es el contacto con el administrador del sitio web.
 
 - Email
 - Teléfono
+- LinkedIn
 - Twitter
