@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Test 1</title>
+    <title>Categories on Pagina Personal</title>
     <link>https://chuyro.github.io/Test-HUGO-WEBPAGE/categories/</link>
-    <description>Recent content in Categories on Test 1</description>
+    <description>Recent content in Categories on Pagina Personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language><atom:link href="https://chuyro.github.io/Test-HUGO-WEBPAGE/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

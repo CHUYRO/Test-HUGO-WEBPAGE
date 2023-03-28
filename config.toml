@@ -1,6 +1,6 @@
 baseURL = 'https://chuyro.github.io/Test-HUGO-WEBPAGE/'
 languageCode = 'es-es'
-title = 'Test'
+title = 'Pagina Personal'
 theme = 'ananke'
 
 [menu]
