@@ -16,3 +16,9 @@ theme = 'ananke'
 	title = "Posts"
 	url = "/posts/"
 	weight = 0
+	[[menu.main]]
+	identifier = "about"
+	name = "About"
+	title = "About"
+	url = "/about/"
+	weight = 0
