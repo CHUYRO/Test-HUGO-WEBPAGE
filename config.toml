@@ -2,3 +2,17 @@ baseURL = 'http://example.org/'
 languageCode = 'es-es'
 title = 'Test 1'
 theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 0
+  [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
