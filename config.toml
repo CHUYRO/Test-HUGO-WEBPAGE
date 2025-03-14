@@ -1,7 +1,14 @@
 baseURL = 'https://chuyro.github.io/Test-HUGO-WEBPAGE/'
 languageCode = 'es-es'
 title = 'Pagina Personal'
-theme = 'ananke'
+theme = 'hugo-coder'
+minify = true
+
+[params]
+DisqusShortname = "your-disqus-shortname"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [menu]
   [[menu.main]]
